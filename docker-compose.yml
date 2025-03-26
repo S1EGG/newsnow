@@ -8,8 +8,8 @@ services:
     ports:
       - '4444:4444'
     environment:
-      - G_CLIENT_ID=
-      - G_CLIENT_SECRET=
-      - JWT_SECRET=
+      - G_CLIENT_ID=Ov23liakuxx4AwMJ3i6n
+      - G_CLIENT_SECRET=a46004df22a923c4823a32253704044f0114a14d
+      - JWT_SECRET=a46004df22a923c4823a32253704044f0114a14d
       - INIT_TABLE=true
       - ENABLE_CACHE=true
